@@ -1,0 +1,20 @@
+{
+    "name": "BlackHole",
+    "short_name": "BlackHole",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "BlackHole app.",
+    "icons": [
+      {
+        "src": "images/512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "images/192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
